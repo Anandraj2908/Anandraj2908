@@ -1,3 +1,5 @@
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FAnandraj290829f87.png?alt=media)
+
 # 💫 About Me:
 I'm a tech enthusiast who began coding in the 6th grade, starting with C++ and later learning Java in school. Before entering my current undergraduate program in Information Science and Engineering at SJB Institute of Engineering in Bangalore, I explored web development. I even created a project called 'Nirvan,' a blog website, using MongoDB, Express, HTML, and Bootstrap, and hosted it on DigitalOcean. However, I took a break from web development for some time and realized the importance of continuous practice and learning.<br><br>In the field of Data Structures and Algorithms, I've maintained a 150+ day coding streak on LeetCode and a 100-day coding streak on GeeksforGeeks, which has strengthened my problem-solving skills and knowledge.<br><br>I've also briefly tried blockchain development, but my true passion lies in app development with React Native and React. I'm actively seeking internship opportunities to further enhance my skills. The creative side of development excites me, and I'm eager to contribute to the ever-evolving world of technology.<br><br>Outside the world of technology, I'm an avid cyclist, and I find enjoyment in exploring new trails and enjoying the freedom of the open road.<br><br>Coding onward and upward!
 
@@ -14,5 +16,5 @@ I'm a tech enthusiast who began coding in the 6th grade, starting with C++ and l
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anandraj2908&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FAnandraj290829f87.png?alt=media)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
